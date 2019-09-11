@@ -1,0 +1,17 @@
+<? xml version = "1.0" encoding = "UTF-8" ?> <svg
+    height="39px" version="1.1" viewBox="0 0 50 39" width="50px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g fill-rule="evenodd" fill="none" id="WiP" stroke-width="1" stroke="none">
+        <g id="Artboard" transform="translate(-90.000000, -38.000000)">
+            <g id="Group" transform="translate(90.000000, 38.000000)">
+                <polygon fill="#808282" id="Rectangle" points="3 14 25 26.5 47 14 40.855176 39 9.08421785 39"></polygon>
+                <polygon fill-opacity="0.262838724" fill="#101A1A" id="Triangle" points="25 8 40 39 10 39"></polygon>
+                <circle cx="2" cy="9" fill="#5E6363" id="Oval" r="2"></circle>
+                <circle cx="25" cy="2" fill="#5E6363" id="Oval" r="2"></circle>
+                <circle cx="48" cy="9" fill="#5E6363" id="Oval" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
